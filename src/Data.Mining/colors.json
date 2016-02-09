@@ -1,0 +1,1990 @@
+﻿{
+  "colors" :
+  [
+    {
+       "id" : 1,
+       "description" : "rot",
+       "subcolors" : [3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,437,438,439,440,441,442,443,444,445,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499]
+    }
+   ,{
+     "id" : 3,
+     "description" : "abendrot"
+   }
+   ,{
+     "id" : 4,
+     "description" : "adrianopelrot"
+   }
+   ,{
+     "id" : 5,
+     "description" : "affoltern rot"
+   }
+   ,{
+     "id" : 6,
+     "description" : "ahornrot"
+   }
+   ,{
+     "id" : 7,
+     "description" : "algolrot"
+   }
+   ,{
+     "id" : 8,
+     "description" : "alizarinkarmesin"
+   }
+   ,{
+     "id" : 9,
+     "description" : "alizarinrot"
+   }
+   ,{
+     "id" : 10,
+     "description" : "alkannarot"
+   }
+   ,{
+     "id" : 11,
+     "description" : "allurarot"
+   }
+   ,{
+     "id" : 12,
+     "description" : "almandinrot"
+   }
+   ,{
+     "id" : 13,
+     "description" : "alpenrosenrot"
+   }
+   ,{
+     "id" : 14,
+     "description" : "alpenrot"
+   }
+   ,{
+     "id" : 15,
+     "description" : "altbordeauxrot"
+   }
+   ,{
+     "id" : 16,
+     "description" : "altrot"
+   }
+   ,{
+     "id" : 17,
+     "description" : "amaranthpurpur"
+   }
+   ,{
+     "id" : 18,
+     "description" : "amarantrot"
+   }
+   ,{
+     "id" : 19,
+     "description" : "ampelrot"
+   }
+   ,{
+     "id" : 20,
+     "description" : "ananasrot"
+   }
+   ,{
+     "id" : 21,
+     "description" : "anilinkarmin"
+   }
+   ,{
+     "id" : 22,
+     "description" : "anilinrot"
+   }
+   ,{
+     "id" : 23,
+     "description" : "anilinscharlach"
+   }
+   ,{
+     "id" : 24,
+     "description" : "anisolrot"
+   }
+   ,{
+     "id" : 25,
+     "description" : "anthrazenrot"
+   }
+   ,{
+     "id" : 26,
+     "description" : "antikrot"
+   }
+   ,{
+     "id" : 27,
+     "description" : "antimonzinnober"
+   }
+   ,{
+     "id" : 28,
+     "description" : "apfelrot"
+   }
+   ,{
+     "id" : 29,
+     "description" : "apricotrot"
+   }
+   ,{
+     "id" : 30,
+     "description" : "arabischrot"
+   }
+   ,{
+     "id" : 31,
+     "description" : "arrasrot"
+   }
+   ,{
+     "id" : 32,
+     "description" : "attischrosenrot"
+   }
+   ,{
+     "id" : 33,
+     "description" : "aurorarot"
+   }
+   ,{
+     "id" : 34,
+     "description" : "autolrot"
+   }
+   ,{
+     "id" : 35,
+     "description" : "azorubin"
+   }
+   ,{
+     "id" : 36,
+     "description" : "babylonrot"
+   }
+   ,{
+     "id" : 37,
+     "description" : "backsteinrot"
+   }
+   ,{
+     "id" : 38,
+     "description" : "badischrot"
+   }
+   ,{
+     "id" : 39,
+     "description" : "barberarot"
+   }
+   ,{
+     "id" : 40,
+     "description" : "beeterot"
+   }
+   ,{
+     "id" : 41,
+     "description" : "beigerot"
+   }
+   ,{
+     "id" : 42,
+     "description" : "beißbeerenrot"
+   }
+   ,{
+     "id" : 43,
+     "description" : "bengalischrot"
+   }
+   ,{
+     "id" : 44,
+     "description" : "bengalrot"
+   }
+   ,{
+     "id" : 45,
+     "description" : "bergrot"
+   }
+   ,{
+     "id" : 46,
+     "description" : "bergzinnober"
+   }
+   ,{
+     "id" : 47,
+     "description" : "berlinerrot"
+   }
+   ,{
+     "id" : 48,
+     "description" : "betaninrot"
+   }
+   ,{
+     "id" : 49,
+     "description" : "betelrot"
+   }
+   ,{
+     "id" : 50,
+     "description" : "bistortarot"
+   }
+   ,{
+     "id" : 51,
+     "description" : "bittersüßrot"
+   }
+   ,{
+     "id" : 52,
+     "description" : "blassrot"
+   }
+   ,{
+     "id" : 53,
+     "description" : "blattrot"
+   }
+   ,{
+     "id" : 54,
+     "description" : "bläulichrot"
+   }
+   ,{
+     "id" : 55,
+     "description" : "blaurot"
+   }
+   ,{
+     "id" : 56,
+     "description" : "blechrot"
+   }
+   ,{
+     "id" : 57,
+     "description" : "bleimmolybdatrot"
+   }
+   ,{
+     "id" : 58,
+     "description" : "bleirot"
+   }
+   ,{
+     "id" : 59,
+     "description" : "bleisafran"
+   }
+   ,{
+     "id" : 60,
+     "description" : "bleizinnober"
+   }
+   ,{
+     "id" : 61,
+     "description" : "blumenrosa"
+   }
+   ,{
+     "id" : 62,
+     "description" : "blutbuchenrot"
+   }
+   ,{
+     "id" : 63,
+     "description" : "blutrot"
+   }
+   ,{
+     "id" : 64,
+     "description" : "blutsteinrot"
+   }
+   ,{
+     "id" : 65,
+     "description" : "bojenrot"
+   }
+   ,{
+     "id" : 66,
+     "description" : "bolusrot"
+   }
+   ,{
+     "id" : 67,
+     "description" : "bordeauxrot"
+   }
+   ,{
+     "id" : 68,
+     "description" : "brandrot"
+   }
+   ,{
+     "id" : 69,
+     "description" : "brasilrot"
+   }
+   ,{
+     "id" : 70,
+     "description" : "braunkarmin"
+   }
+   ,{
+     "id" : 71,
+     "description" : "braunpurpur"
+   }
+   ,{
+     "id" : 72,
+     "description" : "braunrot"
+   }
+   ,{
+     "id" : 73,
+     "description" : "brillantcongo"
+   }
+   ,{
+     "id" : 74,
+     "description" : "brillantrot"
+   }
+   ,{
+     "id" : 75,
+     "description" : "brillantrubin"
+   }
+   ,{
+     "id" : 76,
+     "description" : "brillantrubinrot"
+   }
+   ,{
+     "id" : 77,
+     "description" : "brombeerrot"
+   }
+   ,{
+     "id" : 78,
+     "description" : "broncerot"
+   }
+   ,{
+     "id" : 79,
+     "description" : "burgunderrot"
+   }
+   ,{
+     "id" : 80,
+     "description" : "camelienrot"
+   }
+   ,{
+     "id" : 81,
+     "description" : "campari rot"
+   }
+   ,{
+     "id" : 82,
+     "description" : "capsicumrot"
+   }
+   ,{
+     "id" : 83,
+     "description" : "carmin-nacaratrot"
+   }
+   ,{
+     "id" : 84,
+     "description" : "carmin-zinnober"
+   }
+   ,{
+     "id" : 85,
+     "description" : "cäsarlackrot"
+   }
+   ,{
+     "id" : 86,
+     "description" : "cayennerot"
+   }
+   ,{
+     "id" : 87,
+     "description" : "ceresrot"
+   }
+   ,{
+     "id" : 88,
+     "description" : "chemischrot"
+   }
+   ,{
+     "id" : 89,
+     "description" : "chicarot"
+   }
+   ,{
+     "id" : 90,
+     "description" : "chilirot"
+   }
+   ,{
+     "id" : 91,
+     "description" : "chinacridonrot"
+   }
+   ,{
+     "id" : 92,
+     "description" : "chinarot"
+   }
+   ,{
+     "id" : 93,
+     "description" : "chinesischrot"
+   }
+   ,{
+     "id" : 94,
+     "description" : "chinolinrot"
+   }
+   ,{
+     "id" : 95,
+     "description" : "chromrot"
+   }
+   ,{
+     "id" : 96,
+     "description" : "chromzinnober"
+   }
+   ,{
+     "id" : 97,
+     "description" : "cochenillerot"
+   }
+   ,{
+     "id" : 98,
+     "description" : "columbinrot"
+   }
+   ,{
+     "id" : 99,
+     "description" : "crimsonrot"
+   }
+   ,{
+     "id" : 100,
+     "description" : "cyclamonrot"
+   }
+   ,{
+     "id" : 101,
+     "description" : "dahlienpurpur"
+   }
+   ,{
+     "id" : 102,
+     "description" : "damakusrot"
+   }
+   ,{
+     "id" : 103,
+     "description" : "damaskusrot"
+   }
+   ,{
+     "id" : 104,
+     "description" : "deckrot"
+   }
+   ,{
+     "id" : 105,
+     "description" : "derbyrot"
+   }
+   ,{
+     "id" : 106,
+     "description" : "deutschrot"
+   }
+   ,{
+     "id" : 107,
+     "description" : "distelrot"
+   }
+   ,{
+     "id" : 108,
+     "description" : "dompfaffenrot"
+   }
+   ,{
+     "id" : 109,
+     "description" : "drachenblutrot"
+   }
+   ,{
+     "id" : 110,
+     "description" : "dunkelmagenta"
+   }
+   ,{
+     "id" : 111,
+     "description" : "dunkelpurpur"
+   }
+   ,{
+     "id" : 112,
+     "description" : "dunkelrot"
+   }
+   ,{
+     "id" : 113,
+     "description" : "dunkelrubin"
+   }
+   ,{
+     "id" : 114,
+     "description" : "ebereschenrot"
+   }
+   ,{
+     "id" : 115,
+     "description" : "echtrot"
+   }
+   ,{
+     "id" : 116,
+     "description" : "eichhörnchenrot"
+   }
+   ,{
+     "id" : 117,
+     "description" : "eisenbahnrot"
+   }
+   ,{
+     "id" : 118,
+     "description" : "eisenoxydrot"
+   }
+   ,{
+     "id" : 119,
+     "description" : "eisenrot"
+   }
+   ,{
+     "id" : 120,
+     "description" : "eisensafran"
+   }
+   ,{
+     "id" : 121,
+     "description" : "engelrot"
+   }
+   ,{
+     "id" : 122,
+     "description" : "englischrot"
+   }
+   ,{
+     "id" : 123,
+     "description" : "eosinzinnober"
+   }
+   ,{
+     "id" : 124,
+     "description" : "erdbeerrot"
+   }
+   ,{
+     "id" : 125,
+     "description" : "erikarot"
+   }
+   ,{
+     "id" : 126,
+     "description" : "essigrot"
+   }
+   ,{
+     "id" : 127,
+     "description" : "etruskerrot"
+   }
+   ,{
+     "id" : 128,
+     "description" : "eugeniarot"
+   }
+   ,{
+     "id" : 129,
+     "description" : "fahlpurpur"
+   }
+   ,{
+     "id" : 130,
+     "description" : "fahlrot"
+   }
+   ,{
+     "id" : 131,
+     "description" : "falunerrot"
+   }
+   ,{
+     "id" : 132,
+     "description" : "ferrarirot"
+   }
+   ,{
+     "id" : 133,
+     "description" : "fettrot"
+   }
+   ,{
+     "id" : 134,
+     "description" : "feuerrot"
+   }
+   ,{
+     "id" : 135,
+     "description" : "feuerwehrrot"
+   }
+   ,{
+     "id" : 136,
+     "description" : "fingerhutrot"
+   }
+   ,{
+     "id" : 137,
+     "description" : "flaggenrot"
+   }
+   ,{
+     "id" : 138,
+     "description" : "flamingorot"
+   }
+   ,{
+     "id" : 139,
+     "description" : "flammenrot"
+   }
+   ,{
+     "id" : 140,
+     "description" : "flechtenrot"
+   }
+   ,{
+     "id" : 141,
+     "description" : "fleischockerrot"
+   }
+   ,{
+     "id" : 142,
+     "description" : "fleischrot"
+   }
+   ,{
+     "id" : 143,
+     "description" : "florentinerrot"
+   }
+   ,{
+     "id" : 144,
+     "description" : "französischer purpur"
+   }
+   ,{
+     "id" : 145,
+     "description" : "französischrot"
+   }
+   ,{
+     "id" : 146,
+     "description" : "fuchsiarot"
+   }
+   ,{
+     "id" : 147,
+     "description" : "fuchsienpurpur"
+   }
+   ,{
+     "id" : 148,
+     "description" : "fuchsinrot"
+   }
+   ,{
+     "id" : 149,
+     "description" : "fuchsrot"
+   }
+   ,{
+     "id" : 150,
+     "description" : "gelbrot"
+   }
+   ,{
+     "id" : 151,
+     "description" : "georginenpurpur"
+   }
+   ,{
+     "id" : 152,
+     "description" : "geranienrot"
+   }
+   ,{
+     "id" : 153,
+     "description" : "geraniumrot"
+   }
+   ,{
+     "id" : 154,
+     "description" : "geumrot"
+   }
+   ,{
+     "id" : 155,
+     "description" : "gimpelrot"
+   }
+   ,{
+     "id" : 156,
+     "description" : "glanzrot"
+   }
+   ,{
+     "id" : 157,
+     "description" : "glutrot"
+   }
+   ,{
+     "id" : 158,
+     "description" : "goldpurpur"
+   }
+   ,{
+     "id" : 159,
+     "description" : "goldrot"
+   }
+   ,{
+     "id" : 160,
+     "description" : "goldrubin"
+   }
+   ,{
+     "id" : 161,
+     "description" : "goldrubinrot"
+   }
+   ,{
+     "id" : 162,
+     "description" : "gotischer purpur"
+   }
+   ,{
+     "id" : 163,
+     "description" : "granatapfelrot"
+   }
+   ,{
+     "id" : 164,
+     "description" : "granatpurpur"
+   }
+   ,{
+     "id" : 165,
+     "description" : "granatrot"
+   }
+   ,{
+     "id" : 166,
+     "description" : "graumagenta"
+   }
+   ,{
+     "id" : 167,
+     "description" : "graupurpur"
+   }
+   ,{
+     "id" : 168,
+     "description" : "graurosa"
+   }
+   ,{
+     "id" : 169,
+     "description" : "graurot"
+   }
+   ,{
+     "id" : 170,
+     "description" : "graurubin"
+   }
+   ,{
+     "id" : 171,
+     "description" : "grellrot"
+   }
+   ,{
+     "id" : 172,
+     "description" : "grenadierrot"
+   }
+   ,{
+     "id" : 173,
+     "description" : "gummirot"
+   }
+   ,{
+     "id" : 174,
+     "description" : "güterwagenrot"
+   }
+   ,{
+     "id" : 175,
+     "description" : "hagebuttenrot"
+   }
+   ,{
+     "id" : 176,
+     "description" : "hagedornrot"
+   }
+   ,{
+     "id" : 177,
+     "description" : "hahnenkammrot"
+   }
+   ,{
+     "id" : 178,
+     "description" : "hamburger karmesinrot"
+   }
+   ,{
+     "id" : 179,
+     "description" : "hamburgerrot"
+   }
+   ,{
+     "id" : 180,
+     "description" : "hänflingsrot"
+   }
+   ,{
+     "id" : 181,
+     "description" : "hansarot"
+   }
+   ,{
+     "id" : 182,
+     "description" : "harmalarot"
+   }
+   ,{
+     "id" : 183,
+     "description" : "hausrot"
+   }
+   ,{
+     "id" : 184,
+     "description" : "heckenrosenrot"
+   }
+   ,{
+     "id" : 185,
+     "description" : "heiderot"
+   }
+   ,{
+     "id" : 186,
+     "description" : "helioechtrot"
+   }
+   ,{
+     "id" : 187,
+     "description" : "heliogenrot"
+   }
+   ,{
+     "id" : 188,
+     "description" : "heliorot"
+   }
+   ,{
+     "id" : 189,
+     "description" : "hellrot"
+   }
+   ,{
+     "id" : 190,
+     "description" : "hennarot"
+   }
+   ,{
+     "id" : 191,
+     "description" : "herbstrübenrot"
+   }
+   ,{
+     "id" : 192,
+     "description" : "herdrot"
+   }
+   ,{
+     "id" : 193,
+     "description" : "herzrot"
+   }
+   ,{
+     "id" : 194,
+     "description" : "hessischpurpur"
+   }
+   ,{
+     "id" : 195,
+     "description" : "heucherarot"
+   }
+   ,{
+     "id" : 196,
+     "description" : "himbeerrot"
+   }
+   ,{
+     "id" : 197,
+     "description" : "hirschrot"
+   }
+   ,{
+     "id" : 198,
+     "description" : "hochrot"
+   }
+   ,{
+     "id" : 199,
+     "description" : "höllenrot"
+   }
+   ,{
+     "id" : 200,
+     "description" : "holzrot"
+   }
+   ,{
+     "id" : 201,
+     "description" : "hortensienrot"
+   }
+   ,{
+     "id" : 202,
+     "description" : "hostapermrot"
+   }
+   ,{
+     "id" : 203,
+     "description" : "hummerrot"
+   }
+   ,{
+     "id" : 204,
+     "description" : "hyazinthrot"
+   }
+   ,{
+     "id" : 205,
+     "description" : "ibisrot"
+   }
+   ,{
+     "id" : 206,
+     "description" : "indianerrot"
+   }
+   ,{
+     "id" : 207,
+     "description" : "indianischrot"
+   }
+   ,{
+     "id" : 208,
+     "description" : "indigokarmin"
+   }
+   ,{
+     "id" : 209,
+     "description" : "indigopurpur"
+   }
+   ,{
+     "id" : 210,
+     "description" : "indigorot"
+   }
+   ,{
+     "id" : 211,
+     "description" : "indischrot"
+   }
+   ,{
+     "id" : 212,
+     "description" : "infrarot"
+   }
+   ,{
+     "id" : 213,
+     "description" : "inkarnatrot"
+   }
+   ,{
+     "id" : 214,
+     "description" : "intensivrot"
+   }
+   ,{
+     "id" : 215,
+     "description" : "irgazinrot"
+   }
+   ,{
+     "id" : 216,
+     "description" : "italienischrot"
+   }
+   ,{
+     "id" : 217,
+     "description" : "japanischrot"
+   }
+   ,{
+     "id" : 218,
+     "description" : "japanrot"
+   }
+   ,{
+     "id" : 219,
+     "description" : "jaspisrot"
+   }
+   ,{
+     "id" : 220,
+     "description" : "jerichorot"
+   }
+   ,{
+     "id" : 221,
+     "description" : "jodrot"
+   }
+   ,{
+     "id" : 222,
+     "description" : "jodzinnober"
+   }
+   ,{
+     "id" : 223,
+     "description" : "johannisbeerrot"
+   }
+   ,{
+     "id" : 224,
+     "description" : "juftenrot"
+   }
+   ,{
+     "id" : 225,
+     "description" : "juwelierrot"
+   }
+   ,{
+     "id" : 226,
+     "description" : "kadmiumrot"
+   }
+   ,{
+     "id" : 227,
+     "description" : "kaiserpurpur"
+   }
+   ,{
+     "id" : 228,
+     "description" : "kaiserrot"
+   }
+   ,{
+     "id" : 229,
+     "description" : "kaktusrot"
+   }
+   ,{
+     "id" : 230,
+     "description" : "kalkrot"
+   }
+   ,{
+     "id" : 231,
+     "description" : "kalypsorot"
+   }
+   ,{
+     "id" : 232,
+     "description" : "kameliarot"
+   }
+   ,{
+     "id" : 233,
+     "description" : "kantalupenrot"
+   }
+   ,{
+     "id" : 234,
+     "description" : "kapuzinerrot"
+   }
+   ,{
+     "id" : 235,
+     "description" : "kardinalrot"
+   }
+   ,{
+     "id" : 236,
+     "description" : "karmesinrot"
+   }
+   ,{
+     "id" : 237,
+     "description" : "karminlackrot"
+   }
+   ,{
+     "id" : 238,
+     "description" : "karminrot"
+   }
+   ,{
+     "id" : 239,
+     "description" : "karminscharlach"
+   }
+   ,{
+     "id" : 240,
+     "description" : "karminzinnober"
+   }
+   ,{
+     "id" : 241,
+     "description" : "karmoisin"
+   }
+   ,{
+     "id" : 242,
+     "description" : "karottenrot"
+   }
+   ,{
+     "id" : 243,
+     "description" : "karthaminrot"
+   }
+   ,{
+     "id" : 244,
+     "description" : "kenyarot"
+   }
+   ,{
+     "id" : 245,
+     "description" : "kermesrot"
+   }
+   ,{
+     "id" : 246,
+     "description" : "kermesrot"
+   }
+   ,{
+     "id" : 247,
+     "description" : "ketchuprot"
+   }
+   ,{
+     "id" : 248,
+     "description" : "kinorot"
+   }
+   ,{
+     "id" : 249,
+     "description" : "kirschenrot"
+   }
+   ,{
+     "id" : 250,
+     "description" : "kirschrot"
+   }
+   ,{
+     "id" : 251,
+     "description" : "kleerot"
+   }
+   ,{
+     "id" : 252,
+     "description" : "knallrot"
+   }
+   ,{
+     "id" : 253,
+     "description" : "kobaltarsenrot"
+   }
+   ,{
+     "id" : 254,
+     "description" : "kobaltmagnesiarot"
+   }
+   ,{
+     "id" : 255,
+     "description" : "kobaltrot"
+   }
+   ,{
+     "id" : 256,
+     "description" : "kokkusrot"
+   }
+   ,{
+     "id" : 257,
+     "description" : "kolombinrot"
+   }
+   ,{
+     "id" : 258,
+     "description" : "kongorot"
+   }
+   ,{
+     "id" : 259,
+     "description" : "königspurpur"
+   }
+   ,{
+     "id" : 260,
+     "description" : "königsrot"
+   }
+   ,{
+     "id" : 261,
+     "description" : "korallenrot"
+   }
+   ,{
+     "id" : 262,
+     "description" : "korinthenrot"
+   }
+   ,{
+     "id" : 263,
+     "description" : "korinthrot"
+   }
+   ,{
+     "id" : 264,
+     "description" : "krabbenrot"
+   }
+   ,{
+     "id" : 265,
+     "description" : "krappkarmin"
+   }
+   ,{
+     "id" : 266,
+     "description" : "krapprot"
+   }
+   ,{
+     "id" : 267,
+     "description" : "krappurpur"
+   }
+   ,{
+     "id" : 268,
+     "description" : "krebsrot"
+   }
+   ,{
+     "id" : 269,
+     "description" : "kresolrot"
+   }
+   ,{
+     "id" : 270,
+     "description" : "kresserot"
+   }
+   ,{
+     "id" : 271,
+     "description" : "kristallmennige"
+   }
+   ,{
+     "id" : 272,
+     "description" : "kupferrot"
+   }
+   ,{
+     "id" : 273,
+     "description" : "kupferrubin"
+   }
+   ,{
+     "id" : 274,
+     "description" : "kupferrubinrot"
+   }
+   ,{
+     "id" : 275,
+     "description" : "lachsrot"
+   }
+   ,{
+     "id" : 276,
+     "description" : "lackrot"
+   }
+   ,{
+     "id" : 277,
+     "description" : "lasurrot"
+   }
+   ,{
+     "id" : 278,
+     "description" : "lavarot"
+   }
+   ,{
+     "id" : 279,
+     "description" : "lederrot"
+   }
+   ,{
+     "id" : 280,
+     "description" : "leinrot"
+   }
+   ,{
+     "id" : 281,
+     "description" : "leuchtrot"
+   }
+   ,{
+     "id" : 282,
+     "description" : "lichtrot"
+   }
+   ,{
+     "id" : 283,
+     "description" : "liebesrot"
+   }
+   ,{
+     "id" : 284,
+     "description" : "lilakarmin"
+   }
+   ,{
+     "id" : 285,
+     "description" : "lilapurpur"
+   }
+   ,{
+     "id" : 286,
+     "description" : "lilarot"
+   }
+   ,{
+     "id" : 287,
+     "description" : "lippenstiftrot"
+   }
+   ,{
+     "id" : 288,
+     "description" : "litholrot"
+   }
+   ,{
+     "id" : 289,
+     "description" : "lotusrot"
+   }
+   ,{
+     "id" : 290,
+     "description" : "luziferrot"
+   }
+   ,{
+     "id" : 291,
+     "description" : "magdalarot"
+   }
+   ,{
+     "id" : 292,
+     "description" : "magenta"
+   }
+   ,{
+     "id" : 293,
+     "description" : "magentarot"
+   }
+   ,{
+     "id" : 294,
+     "description" : "magnolienpurpur"
+   }
+   ,{
+     "id" : 295,
+     "description" : "magnolienrot"
+   }
+   ,{
+     "id" : 296,
+     "description" : "mahagonirot"
+   }
+   ,{
+     "id" : 297,
+     "description" : "mahonienrot"
+   }
+   ,{
+     "id" : 298,
+     "description" : "majoranrot"
+   }
+   ,{
+     "id" : 299,
+     "description" : "malagarot"
+   }
+   ,{
+     "id" : 300,
+     "description" : "malinorot"
+   }
+   ,{
+     "id" : 301,
+     "description" : "malvenpurpur"
+   }
+   ,{
+     "id" : 302,
+     "description" : "malvenrot"
+   }
+   ,{
+     "id" : 303,
+     "description" : "mandarinrot"
+   }
+   ,{
+     "id" : 304,
+     "description" : "marienkäferrot"
+   }
+   ,{
+     "id" : 305,
+     "description" : "marsrot"
+   }
+   ,{
+     "id" : 306,
+     "description" : "mattrot"
+   }
+   ,{
+     "id" : 307,
+     "description" : "maulbeerrot"
+   }
+   ,{
+     "id" : 308,
+     "description" : "melonenrot"
+   }
+   ,{
+     "id" : 309,
+     "description" : "mennigerot"
+   }
+   ,{
+     "id" : 310,
+     "description" : "merinorot"
+   }
+   ,{
+     "id" : 311,
+     "description" : "mineralfeuerrot"
+   }
+   ,{
+     "id" : 312,
+     "description" : "mineralrot"
+   }
+   ,{
+     "id" : 313,
+     "description" : "moderot"
+   }
+   ,{
+     "id" : 314,
+     "description" : "mohnrot"
+   }
+   ,{
+     "id" : 315,
+     "description" : "möhrenoder karottenrot"
+   }
+   ,{
+     "id" : 316,
+     "description" : "molybdatrot"
+   }
+   ,{
+     "id" : 317,
+     "description" : "moosbeerenrot"
+   }
+   ,{
+     "id" : 318,
+     "description" : "morgenrot"
+   }
+   ,{
+     "id" : 319,
+     "description" : "muschelrosarot"
+   }
+   ,{
+     "id" : 320,
+     "description" : "nachtrot"
+   }
+   ,{
+     "id" : 321,
+     "description" : "naphthalinrot"
+   }
+   ,{
+     "id" : 322,
+     "description" : "naphtholrubin"
+   }
+   ,{
+     "id" : 323,
+     "description" : "naphtolrot"
+   }
+   ,{
+     "id" : 324,
+     "description" : "nasturtiumrot"
+   }
+   ,{
+     "id" : 325,
+     "description" : "neapelrot"
+   }
+   ,{
+     "id" : 326,
+     "description" : "nelkenpurpur"
+   }
+   ,{
+     "id" : 327,
+     "description" : "nelkenrot"
+   }
+   ,{
+     "id" : 328,
+     "description" : "neonrot"
+   }
+   ,{
+     "id" : 329,
+     "description" : "neurot"
+   }
+   ,{
+     "id" : 330,
+     "description" : "neutralrot"
+   }
+   ,{
+     "id" : 331,
+     "description" : "nitranilinrot"
+   }
+   ,{
+     "id" : 332,
+     "description" : "nitrosaminrot"
+   }
+   ,{
+     "id" : 333,
+     "description" : "nopalrot"
+   }
+   ,{
+     "id" : 334,
+     "description" : "norisrot"
+   }
+   ,{
+     "id" : 335,
+     "description" : "nürnbergerrot"
+   }
+   ,{
+     "id" : 336,
+     "description" : "ochsenblutrot"
+   }
+   ,{
+     "id" : 337,
+     "description" : "ofenheimerrot"
+   }
+   ,{
+     "id" : 338,
+     "description" : "opalgranatrot"
+   }
+   ,{
+     "id" : 339,
+     "description" : "opalhellrot"
+   }
+   ,{
+     "id" : 340,
+     "description" : "opalhimbeerrot"
+   }
+   ,{
+     "id" : 341,
+     "description" : "opalrot"
+   }
+   ,{
+     "id" : 342,
+     "description" : "orangerot"
+   }
+   ,{
+     "id" : 343,
+     "description" : "orchideenpurpur"
+   }
+   ,{
+     "id" : 344,
+     "description" : "orientrot"
+   }
+   ,{
+     "id" : 345,
+     "description" : "orleanrot"
+   }
+   ,{
+     "id" : 346,
+     "description" : "oxydrot"
+   }
+   ,{
+     "id" : 347,
+     "description" : "palatinrot"
+   }
+   ,{
+     "id" : 348,
+     "description" : "palatinscharlach"
+   }
+   ,{
+     "id" : 349,
+     "description" : "päonienrot"
+   }
+   ,{
+     "id" : 350,
+     "description" : "paprikarot"
+   }
+   ,{
+     "id" : 351,
+     "description" : "paranitranilinrot"
+   }
+   ,{
+     "id" : 352,
+     "description" : "pariserrot"
+   }
+   ,{
+     "id" : 353,
+     "description" : "pastellrot"
+   }
+   ,{
+     "id" : 354,
+     "description" : "pastell rot"
+   }
+   ,{
+     "id" : 355,
+     "description" : "patentrot"
+   }
+   ,{
+     "id" : 356,
+     "description" : "perlrot"
+   }
+   ,{
+     "id" : 357,
+     "description" : "permanentmagenta"
+   }
+   ,{
+     "id" : 358,
+     "description" : "permanentrot"
+   }
+   ,{
+     "id" : 359,
+     "description" : "persischrot"
+   }
+   ,{
+     "id" : 360,
+     "description" : "petunienpurpur"
+   }
+   ,{
+     "id" : 361,
+     "description" : "pfaffenrot"
+   }
+   ,{
+     "id" : 362,
+     "description" : "pfefferrot"
+   }
+   ,{
+     "id" : 363,
+     "description" : "pfingstrosenrot"
+   }
+   ,{
+     "id" : 364,
+     "description" : "pfirsichrot"
+   }
+   ,{
+     "id" : 365,
+     "description" : "phenanthrenrot"
+   }
+   ,{
+     "id" : 366,
+     "description" : "phenetolrot"
+   }
+   ,{
+     "id" : 367,
+     "description" : "pionierrot"
+   }
+   ,{
+     "id" : 368,
+     "description" : "pimentrot"
+   }
+   ,{
+     "id" : 369,
+     "description" : "polierrot"
+   }
+   ,{
+     "id" : 370,
+     "description" : "polimentrot"
+   }
+   ,{
+     "id" : 371,
+     "description" : "pompadourrot"
+   }
+   ,{
+     "id" : 372,
+     "description" : "pompejanischrot"
+   }
+   ,{
+     "id" : 373,
+     "description" : "ponceaurot"
+   }
+   ,{
+     "id" : 374,
+     "description" : "ponceaurot"
+   }
+   ,{
+     "id" : 375,
+     "description" : "porphyrrot"
+   }
+   ,{
+     "id" : 376,
+     "description" : "portugiesererrot"
+   }
+   ,{
+     "id" : 377,
+     "description" : "portweinrot"
+   }
+   ,{
+     "id" : 378,
+     "description" : "pozzuolirot"
+   }
+   ,{
+     "id" : 379,
+     "description" : "pragerrot"
+   }
+   ,{
+     "id" : 380,
+     "description" : "prälatenrot"
+   }
+   ,{
+     "id" : 381,
+     "description" : "primärrot"
+   }
+   ,{
+     "id" : 382,
+     "description" : "purpur"
+   }
+   ,{
+     "id" : 383,
+     "description" : "purpurkarmin"
+   }
+   ,{
+     "id" : 384,
+     "description" : "purpurlackrot"
+   }
+   ,{
+     "id" : 385,
+     "description" : "purpurrot"
+   }
+   ,{
+     "id" : 386,
+     "description" : "puterrot"
+   }
+   ,{
+     "id" : 387,
+     "description" : "pyroprot"
+   }
+   ,{
+     "id" : 388,
+     "description" : "quarzrot"
+   }
+   ,{
+     "id" : 389,
+     "description" : "quecksilbersulfidrot"
+   }
+   ,{
+     "id" : 390,
+     "description" : "quindorot"
+   }
+   ,{
+     "id" : 391,
+     "description" : "radieschenrot"
+   }
+   ,{
+     "id" : 392,
+     "description" : "rauschrot"
+   }
+   ,{
+     "id" : 393,
+     "description" : "rembrandtlack"
+   }
+   ,{
+     "id" : 394,
+     "description" : "rosarot"
+   }
+   ,{
+     "id" : 395,
+     "description" : "rosenholzrot"
+   }
+   ,{
+     "id" : 396,
+     "description" : "rosenprimelrot"
+   }
+   ,{
+     "id" : 397,
+     "description" : "rosenpurpur"
+   }
+   ,{
+     "id" : 398,
+     "description" : "rosenrot"
+   }
+   ,{
+     "id" : 399,
+     "description" : "rostrot"
+   }
+   ,{
+     "id" : 400,
+     "description" : "rötel"
+   }
+   ,{
+     "id" : 401,
+     "description" : "rotholzlack"
+   }
+   ,{
+     "id" : 402,
+     "description" : "rotkreide"
+   }
+   ,{
+     "id" : 403,
+     "description" : "rotlack"
+   }
+   ,{
+     "id" : 404,
+     "description" : "rotockerrot"
+   }
+   ,{
+     "id" : 406,
+     "description" : "rottangenrot"
+   }
+   ,{
+     "id" : 407,
+     "description" : "royalrot"
+   }
+   ,{
+     "id" : 408,
+     "description" : "rubensrot"
+   }
+   ,{
+     "id" : 409,
+     "description" : "rubinrot"
+   }
+   ,{
+     "id" : 410,
+     "description" : "saflorrot"
+   }
+   ,{
+     "id" : 411,
+     "description" : "safranrot"
+   }
+   ,{
+     "id" : 412,
+     "description" : "saftrot"
+   }
+   ,{
+     "id" : 413,
+     "description" : "samtrot"
+   }
+   ,{
+     "id" : 414,
+     "description" : "sandsteinrot"
+   }
+   ,{
+     "id" : 415,
+     "description" : "sapanrot"
+   }
+   ,{
+     "id" : 416,
+     "description" : "saturnrot"
+   }
+   ,{
+     "id" : 417,
+     "description" : "satinrot"
+   }
+   ,{
+     "id" : 418,
+     "description" : "sauerampferrot"
+   }
+   ,{
+     "id" : 419,
+     "description" : "scharlachrot"
+   }
+   ,{
+     "id" : 420,
+     "description" : "schieferpurpur"
+   }
+   ,{
+     "id" : 421,
+     "description" : "schieferrot"
+   }
+   ,{
+     "id" : 422,
+     "description" : "schikarot"
+   }
+   ,{
+     "id" : 423,
+     "description" : "schönrot"
+   }
+   ,{
+     "id" : 424,
+     "description" : "schwarzrot"
+   }
+   ,{
+     "id" : 425,
+     "description" : "schwedischrot"
+   }
+   ,{
+     "id" : 426,
+     "description" : "schwefelrubin"
+   }
+   ,{
+     "id" : 427,
+     "description" : "seidelbastrot"
+   }
+   ,{
+     "id" : 428,
+     "description" : "signalrot"
+   }
+   ,{
+     "id" : 429,
+     "description" : "sinopeerderot"
+   }
+   ,{
+     "id" : 430,
+     "description" : "solferinorot"
+   }
+   ,{
+     "id" : 431,
+     "description" : "solidrot"
+   }
+   ,{
+     "id" : 432,
+     "description" : "sophierot"
+   }
+   ,{
+     "id" : 433,
+     "description" : "spanischrot"
+   }
+   ,{
+     "id" : 434,
+     "description" : "spektralrot"
+   }
+   ,{
+     "id" : 435,
+     "description" : "spierenrot"
+   }
+   ,{
+     "id" : 436,
+     "description" : "spinellrot"
+   }
+   ,{
+     "id" : 437,
+     "description" : "stahlrot"
+   }
+   ,{
+     "id" : 438,
+     "description" : "stallrot"
+   }
+   ,{
+     "id" : 439,
+     "description" : "studiorot"
+   }
+   ,{
+     "id" : 440,
+     "description" : "sudanrot"
+   }
+   ,{
+     "id" : 441,
+     "description" : "sultanrot"
+   }
+   ,{
+     "id" : 442,
+     "description" : "syringarot"
+   }
+   ,{
+     "id" : 443,
+     "description" : "tassenrot"
+   }
+   ,{
+     "id" : 444,
+     "description" : "taubenblutfarbe"
+   }
+   ,{
+     "id" : 445,
+     "description" : "telekom-magenta "
+   }
+   ,{
+     "id" : 447,
+     "description" : "tellerrot"
+   }
+   ,{
+     "id" : 448,
+     "description" : "terracottarot"
+   }
+   ,{
+     "id" : 449,
+     "description" : "terra di sienarot"
+   }
+   ,{
+     "id" : 450,
+     "description" : "terra pozzuolirot"
+   }
+   ,{
+     "id" : 451,
+     "description" : "teufelsrot"
+   }
+   ,{
+     "id" : 452,
+     "description" : "thiorubin"
+   }
+   ,{
+     "id" : 453,
+     "description" : "thiviersrot"
+   }
+   ,{
+     "id" : 454,
+     "description" : "tibetisch-kirschrot"
+   }
+   ,{
+     "id" : 455,
+     "description" : "tiefkarminrot"
+   }
+   ,{
+     "id" : 456,
+     "description" : "tiefmagenta"
+   }
+   ,{
+     "id" : 457,
+     "description" : "tiefrot"
+   }
+   ,{
+     "id" : 458,
+     "description" : "tizianrot"
+   }
+   ,{
+     "id" : 459,
+     "description" : "tolusafranin"
+   }
+   ,{
+     "id" : 460,
+     "description" : "tomatenrot"
+   }
+   ,{
+     "id" : 461,
+     "description" : "tonerrot"
+   }
+   ,{
+     "id" : 462,
+     "description" : "topasrot"
+   }
+   ,{
+     "id" : 463,
+     "description" : "tormentillrot"
+   }
+   ,{
+     "id" : 464,
+     "description" : "tornadorot"
+   }
+   ,{
+     "id" : 465,
+     "description" : "toskanarot"
+   }
+   ,{
+     "id" : 466,
+     "description" : "tuchrot"
+   }
+   ,{
+     "id" : 467,
+     "description" : "türkischrot"
+   }
+   ,{
+     "id" : 468,
+     "description" : "tyruspurpur"
+   }
+   ,{
+     "id" : 469,
+     "description" : "ultramarinrot"
+   }
+   ,{
+     "id" : 470,
+     "description" : "ultrarot"
+   }
+   ,{
+     "id" : 471,
+     "description" : "urbinorot"
+   }
+   ,{
+     "id" : 472,
+     "description" : "urrot"
+   }
+   ,{
+     "id" : 473,
+     "description" : "valentinorot"
+   }
+   ,{
+     "id" : 474,
+     "description" : "vamprot"
+   }
+   ,{
+     "id" : 475,
+     "description" : "van dyck rot"
+   }
+   ,{
+     "id" : 476,
+     "description" : "venetianerrot"
+   }
+   ,{
+     "id" : 477,
+     "description" : "venetianerscharlach"
+   }
+   ,{
+     "id" : 478,
+     "description" : "venezianischrot"
+   }
+   ,{
+     "id" : 479,
+     "description" : "verkehrsrot"
+   }
+   ,{
+     "id" : 480,
+     "description" : "vermillionrot"
+   }
+   ,{
+     "id" : 481,
+     "description" : "violettrot"
+   }
+   ,{
+     "id" : 482,
+     "description" : "vulkanrot"
+   }
+   ,{
+     "id" : 483,
+     "description" : "wandrot"
+   }
+   ,{
+     "id" : 484,
+     "description" : "wangenrot"
+   }
+   ,{
+     "id" : 485,
+     "description" : "warmrot"
+   }
+   ,{
+     "id" : 486,
+     "description" : "weichselrot"
+   }
+   ,{
+     "id" : 487,
+     "description" : "weihnachtsrot"
+   }
+   ,{
+     "id" : 488,
+     "description" : "weinpurpur"
+   }
+   ,{
+     "id" : 489,
+     "description" : "weinrot"
+   }
+   ,{
+     "id" : 490,
+     "description" : "weißrot"
+   }
+   ,{
+     "id" : 491,
+     "description" : "wienerrot"
+   }
+   ,{
+     "id" : 492,
+     "description" : "winfordrot"
+   }
+   ,{
+     "id" : 493,
+     "description" : "wurzelkrapplack"
+   }
+   ,{
+     "id" : 494,
+     "description" : "zementrot"
+   }
+   ,{
+     "id" : 495,
+     "description" : "ziegelrot"
+   }
+   ,{
+     "id" : 496,
+     "description" : "zimtrot"
+   }
+   ,{
+     "id" : 497,
+     "description" : "zinnoberrot"
+   }
+   ,{
+     "id" : 498,
+     "description" : "zornrot"
+   }
+   ,{
+     "id" : 499,
+     "description" : "zwiebelrot"
+   }
+  ]
+}
