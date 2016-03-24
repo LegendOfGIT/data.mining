@@ -1986,5 +1986,25 @@
      "id" : 499,
      "description" : "zwiebelrot"
    }
+   ,{
+     "id" : 500,
+     "description" : "gelb"
+   }
+   ,{
+     "id" : 501,
+     "description" : "grün"
+   }
+   ,{
+     "id" : 502,
+     "description" : "blau"
+   }
+   ,{
+     "id" : 503,
+     "description" : "orange"
+   }
+   ,{
+     "id" : 504,
+     "description" : "pink"
+   }
   ]
 }
