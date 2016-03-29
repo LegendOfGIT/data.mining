@@ -2,13 +2,16 @@
 <package >
   <metadata>
     <id>Data.Mining</id>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <authors>Marcel Schneider</authors>
     <owners>Marcel Schneider</owners>
     <projectUrl>https://github.com/LegendOfGIT/Nuget-Repository/tree/master/Data.Mining/src/Data.Mining</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Stellt intelligente Aufbereitungen von Informationsabfragen für BigData zur Verfügung</description>
     <releaseNotes>
+		Version 1.0.3:
+		- Farben für Erkennung von Farbfiltern hinzugefügt.
+
 		Version 1.0.2:
 		- Filter für Information "Größe" hinzugefügt.
 		- Filter für Information "Preis" hinzugefügt.		
